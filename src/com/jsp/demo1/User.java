@@ -5,6 +5,7 @@ public class User {
 	private String name;
 	private String gmail;
 	private long contact;
+	private String address;
 	public long getContact() {
 		return contact;
 	}
